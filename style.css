@@ -1,0 +1,38 @@
+.heading
+{
+    font-size:23px;
+    width:100%;
+    margin:0px;
+}
+
+.note
+{
+    font-size:15px;
+    color:black;
+}
+
+body
+{
+    background-size: cover;
+}
+
+.div_speed_img
+{
+    width: 200px;
+    border-radius: 100px;
+}
+
+#speed
+{
+    font-size:23px;
+}
+
+canvas
+{
+    border:5px solid white;
+    border-radius:20px;
+    box-shadow:5px 5px 5px grey;
+    background-position:center;
+    margin-top: 60px;
+    margin-left: 120px;
+}
